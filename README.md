@@ -1,11 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Talisson%20Almeida&fontSize=50&animation=fadeIn" />
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=talissonfit&label=Perfil%20Views&color=0e75b6&style=flat-square" />
-  </p>
-</div>
-
 ### 🚀 Sobre Mim
 - 👨‍💻 **Foco Atual:** Aprendendo a criar o futuro com código.
 - 🍔 **Projeto de Destaque:** [Hamburgueria Digital](https://talis-burguer.vercel.app/)
