@@ -1,6 +1,6 @@
 ### 🚀 Sobre Mim
 - 👨‍💻 **Foco Atual:** Aprendendo a criar o futuro com código.
-- 🍔 **Projeto de Destaque:** [Hamburgueria Digital](https://talisburguer.vercel.app/) & [Calculadora] (https://calculadoratalisson.vercel.app/)
+- 🍔 **Projeto de Destaque:** [Hamburgueria Digital](https://talisburguer.vercel.app/) & [Calculadora](https://calculadoratalisson.vercel.app/)
 - 💻 **Portfólio:** [Acesse meu GitHub](https://github.com/talissonfit)
 - 📬 **Contato:** talissonalmeida11@gmail.com
 
