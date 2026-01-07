@@ -2,13 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2c2c2c&height=450&section=header&text=TALISSON%20ALMEIDA&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Construindo%20Experiências%20Digitais&descAlignY=55&descAlign=50&descColor=0077B5&animation=fadeIn&stroke=0077B5&strokeWidth=1" width="100%" alt="Header Gigante Talisson">
 
-
 <br>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=👨‍💻+Foco+Atual:+Aprendendo+a+criar+o+futuro+com+código.;🚀+Transformando+ideias+em+realidade+digital.;🧠+Eterno+aprendiz.;&font=Fira%20Code&center=true&width=500&height=50&color=3399FF&vCenter=true&size=22" alt="Typing Effect">
 </a>
 <br>
-
 
 ---
 
@@ -24,7 +23,7 @@
 
 <h3>🏆 Portfólio Selecionado</h3>
 
-<table>
+<table border="0">
   <tr>
     <td width="50%" align="center">
       <h3>🍔 Hamburgueria Digital</h3>
@@ -42,12 +41,7 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2c2c2c:000000&height=200&section=footer" width="100%" alt="Footer Wave">
-
-<div style="margin-top: -150px; position: relative; z-index: 2;">
+<div style="margin-top: -170px; position: relative; z-index: 2;">
     <h3>📬 Conecte-se Comigo</h3>
     <a href="https://www.linkedin.com/in/almeidatalisson/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
@@ -59,15 +53,7 @@
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
     </a>
     <br><br>
-    <p style="color: #888;">© 2024 Talisson Almeida. Feito com café e código.</p>
+    <p style="color: #888;">© 2026 Talisson Almeida. Feito com café e código.</p>
 </div>
 
-</div>```
-
-### O que torna esta versão "Impressionante":
-
-1.  **O Cabeçalho Massivo (450px de altura):** É a primeira coisa que se vê. Ele usa um degradê do preto total para um cinza chumbo, com uma borda azul neon sutil. Isso domina a tela e define o tom de "site profissional".
-2.  **Texto Animado:** Adicionei uma animação de digitação logo abaixo do cabeçalho. Isso atrai o olhar e dá movimento à página.
-3.  **Contêiner de Skills:** Coloquei os ícones dentro de uma "caixa" escura com borda sutil, parecendo um elemento de UI de um site real.
-4.  **Botões de Projeto:** Transformei os links dos projetos em botões grandes usando `shields.io`, tornando-os mais clicáveis.
-5.  **Integração do Rodapé:** O final é o toque de mestre. Usei uma imagem de "onda" invertida no rodapé e, usando um truque de margem negativa (`margin-top: -150px`), puxei os botões de contato para cima dessa imagem, fazendo parecer que eles são parte integrante do design do rodapé do site.
+</div>
