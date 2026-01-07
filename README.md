@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👨‍💻+Foco+Atual:+Aprendendo+a+criar+o+futuro+com+código.;🚀+Transformando+ideias+em+realidade+digital.;🧠+Eterno+aprendiz.;&font=Fira%20Code&center=true&width=500&height=50&color=3399FF&vCenter=true&size=22" alt="Typing Effect">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👨‍💻+Foco+Atual:+Aprendendo+a+criar+o+futuro+com+código.;🧠+Eterno+aprendiz.;&font=Fira%20Code&center=true&width=500&height=50&color=3399FF&vCenter=true&size=22" alt="Typing Effect">
 </a>
 <br>
 
