@@ -42,7 +42,7 @@
 
 <div style="margin-top: 20px;">
     <h3>📬 Conecte-se Comigo</h3>
-    <a href="https://www.linkedin.com/in/almeidatalisson/" target="_blank">
+    <a href="https://www.linkedin.com/in/talissonalmeida/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
     </a>
     <a href="https://www.instagram.com/talissonfit/" target="_blank">
